@@ -4,5 +4,7 @@ elif
 neval
 seda
 sevgi
+idil
+
 
 
